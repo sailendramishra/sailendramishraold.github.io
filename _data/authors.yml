@@ -10,9 +10,10 @@ Name Name:
   google_plus : "biot.spm"
 
 Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  name        : "Sailendra Prasanna Mishra"
+  uri         : "http://name.com"
+  email       : "sailendrapm@gmail.com"
+  bio         : "Ph.D. Candidate"
+  avatar      : "bio-photo-2.jpg"
+  twitter     : "sailendram"
+  google_plus : "biot.spm"
